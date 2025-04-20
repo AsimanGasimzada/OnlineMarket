@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineMarket-BB104/1.0.0": {
+        "runtime": {
+          "OnlineMarket-BB104.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineMarket-BB104/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

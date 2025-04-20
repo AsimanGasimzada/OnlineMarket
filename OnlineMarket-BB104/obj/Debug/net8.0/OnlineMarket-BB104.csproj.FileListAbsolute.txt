@@ -1,0 +1,14 @@
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\bin\Debug\net8.0\OnlineMarket-BB104.exe
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\bin\Debug\net8.0\OnlineMarket-BB104.deps.json
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\bin\Debug\net8.0\OnlineMarket-BB104.runtimeconfig.json
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\bin\Debug\net8.0\OnlineMarket-BB104.dll
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\bin\Debug\net8.0\OnlineMarket-BB104.pdb
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\OnlineMarket-BB104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\OnlineMarket-BB104.AssemblyInfoInputs.cache
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\OnlineMarket-BB104.AssemblyInfo.cs
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\OnlineMarket-BB104.csproj.CoreCompileInputs.cache
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\OnlineMarket-BB104.dll
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\refint\OnlineMarket-BB104.dll
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\OnlineMarket-BB104.pdb
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\OnlineMarket-BB104.genruntimeconfig.cache
+C:\Users\Asiman\source\repos\OnlineMarket-BB104\OnlineMarket-BB104\obj\Debug\net8.0\ref\OnlineMarket-BB104.dll

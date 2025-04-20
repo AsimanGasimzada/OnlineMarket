@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|c:\\users\\asiman\\source\\repos\\onlinemarket-bb104\\onlinemarket-bb104\\models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|solutionrelative:onlinemarket-bb104\\models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|c:\\users\\asiman\\source\\repos\\onlinemarket-bb104\\onlinemarket-bb104\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|solutionrelative:onlinemarket-bb104\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|c:\\users\\asiman\\source\\repos\\onlinemarket-bb104\\onlinemarket-bb104\\models\\onlinemarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|solutionrelative:onlinemarket-bb104\\models\\onlinemarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|c:\\users\\asiman\\source\\repos\\onlinemarket-bb104\\onlinemarket-bb104\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|solutionrelative:onlinemarket-bb104\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|c:\\users\\asiman\\source\\repos\\onlinemarket-bb104\\onlinemarket-bb104\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|solutionrelative:onlinemarket-bb104\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|c:\\users\\asiman\\source\\repos\\onlinemarket-bb104\\onlinemarket-bb104\\exceptions\\alreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|solutionrelative:onlinemarket-bb104\\exceptions\\alreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|c:\\users\\asiman\\source\\repos\\onlinemarket-bb104\\onlinemarket-bb104\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|solutionrelative:onlinemarket-bb104\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|c:\\users\\asiman\\source\\repos\\onlinemarket-bb104\\onlinemarket-bb104\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464BF77-6709-41BD-B455-70284F8BD180}|OnlineMarket-BB104\\OnlineMarket-BB104.csproj|solutionrelative:onlinemarket-bb104\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineMarket-BB104\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\Product.cs",
+              "RelativeToolTip": "OnlineMarket-BB104\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:06:35.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlreadyExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Exceptions\\AlreadyExistException.cs",
+              "RelativeDocumentMoniker": "OnlineMarket-BB104\\Exceptions\\AlreadyExistException.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Exceptions\\AlreadyExistException.cs",
+              "RelativeToolTip": "OnlineMarket-BB104\\Exceptions\\AlreadyExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:05:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductList.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\ProductList.cs",
+              "RelativeDocumentMoniker": "OnlineMarket-BB104\\Models\\ProductList.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\ProductList.cs",
+              "RelativeToolTip": "OnlineMarket-BB104\\Models\\ProductList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:03:58.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartItemList.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\CartItemList.cs",
+              "RelativeDocumentMoniker": "OnlineMarket-BB104\\Models\\CartItemList.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\CartItemList.cs",
+              "RelativeToolTip": "OnlineMarket-BB104\\Models\\CartItemList.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:58:37.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "OnlineMarket-BB104\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "OnlineMarket-BB104\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:55:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "OnlineMarket-BB104\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\CartItem.cs",
+              "RelativeToolTip": "OnlineMarket-BB104\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:55:17.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnlineMarket.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\OnlineMarket.cs",
+              "RelativeDocumentMoniker": "OnlineMarket-BB104\\Models\\OnlineMarket.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Models\\OnlineMarket.cs",
+              "RelativeToolTip": "OnlineMarket-BB104\\Models\\OnlineMarket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:54:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineMarket-BB104\\Program.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\OnlineMarket-BB104\\OnlineMarket-BB104\\Program.cs",
+              "RelativeToolTip": "OnlineMarket-BB104\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:53:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
